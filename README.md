@@ -1,6 +1,6 @@
 ## Hi👋! I'm Sushant
 
-🎓 Industrial Engineering undergrad at IIT Kharagpur.<br/>
+🎓 Industrial Engineering graduate from IIT Kharagpur.<br/>
 💻 I write code - sometimes it even works.<br/>
 🐧 Hobby - run Linux, break Linux, fix Linux, repeat.<br/>
 📜 I read documentation. I even try writing it, for fun.<br/>
